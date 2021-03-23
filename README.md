@@ -1,2 +1,2 @@
 # diabetes
-machine learning on diabetes
+machine learning for knowing on diabetes
